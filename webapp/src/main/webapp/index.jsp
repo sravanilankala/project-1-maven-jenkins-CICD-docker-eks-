@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps + AWS Real time training2025 at Naresh-IT HYDERABAD </h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>DevOps + AWS</h1>
+    <p>Sravani Lankala</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
